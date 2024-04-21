@@ -1,6 +1,9 @@
 # Discord Bot (Typescript & Discord.js)
 
 This is a boilerplate discord bot application written in Typescript, using Discord.js using Yarn as the package manager.
+This repository serves as an example for a Medium article. You can read the article [here](https://medium.com/@qkotsedi/make-a-discord-bot-using-discord-js-typescript-321034cf9e5e).
+
+
 
 ## Prerequisites
 
